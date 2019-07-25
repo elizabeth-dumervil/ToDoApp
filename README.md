@@ -1,7 +1,7 @@
 # ToDoApp
-# Project 1 - *Name of App Here*
+# Project 1 - *ToDoApp*
 
-**Name of your app** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**todoapp** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Dumervil Gloria Eva Elizabeth**
 
@@ -37,8 +37,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
-
+    Copyright 2019 Gloria Eva Elizabeth Dumervil
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
